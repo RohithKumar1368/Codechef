@@ -1,5 +1,5 @@
 /*
-    Problem Link: https://www.codechef.com/problems/SNAKPROC 
+    Problem Description: https://www.codechef.com/problems/SNAKPROC 
 */
 
 import java.util.*;
